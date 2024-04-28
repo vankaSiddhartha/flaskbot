@@ -1,0 +1,1 @@
+# encode the new user input, add the eos_token and return a tensor in Pytorch
